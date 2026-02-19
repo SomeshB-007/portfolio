@@ -1,3 +1,5 @@
+# https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data   👉 Dataset link
+
 use sales;
 
 # Question 1. How many orders are entering the system?
